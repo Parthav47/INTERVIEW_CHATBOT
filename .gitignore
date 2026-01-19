@@ -1,0 +1,10 @@
+# Secrets
+.env
+venv/
+__pycache__/
+.DS_Store
+
+#Files
+app.py
+data/
+Dummy_data
